@@ -6,7 +6,7 @@
 typedef char txDataType;
 
 void TxFifo_Init(void);
-
+//123
 int TxFifo_Put(txDataType data);
 
 
